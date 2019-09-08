@@ -1,0 +1,6 @@
+framework module CTFont {
+  umbrella header "CTFont-umbrella.h"
+
+  export *
+  module * { export * }
+}
